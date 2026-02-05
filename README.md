@@ -22,6 +22,17 @@ I'm actively developing **CPTM8** (Cybersecurity Penetration Testing M8) - a com
 
 ---
 
+## 🏗️ DevSecOps Infrastructure
+
+Demonstrating **Infrastructure as Code** and **security-first architecture** through production-grade deployments:
+
+| Repository | Stack | Description |
+|------------|-------|-------------|
+| [**vulnmngm-pipeline**](https://github.com/deifzar/vulnmngm-pipeline) | Terraform, Ansible, Azure | DevSecOps pipeline with shift-left security - Jenkins CI/CD, SonarQube SAST, Trivy container scanning, and automated infrastructure provisioning |
+| [**cptm8-k8s-stack**](https://github.com/deifzar/cptm8-k8s-stack) | Kubernetes, Kustomize | Cloud-native deployment orchestrating 13 microservices across AWS EKS, GCP GKE, and Azure AKS with observability and multi-environment support |
+
+---
+
 ## 🚀 Featured Project: DashboardM8
 
 **DashboardM8** is the flagship UI for the CPTM8 ecosystem - a production-grade, enterprise cybersecurity vulnerability management and penetration testing dashboard.
