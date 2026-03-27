@@ -28,7 +28,7 @@ Demonstrating **Infrastructure as Code** and **security-first architecture** thr
 
 | Repository | Stack | Description |
 |------------|-------|-------------|
-| [**vulnmngm-pipeline**](https://github.com/deifzar/vulnmngm-pipeline) | Terraform, Ansible, Azure, AWS, Groovy | DevSecOps pipeline with shift-left security - Jenkins CI/CD, SonarQube SAST, Trivy container scanning, Artifactory and automated infrastructure provisioning |
+| [**vulnmngm-pipeline**](https://github.com/deifzar/vulnmngm-pipeline) | Terraform, Ansible, Azure, AWS, Groovy, JFrog | DevSecOps pipeline with shift-left security - Jenkins CI/CD, SonarQube SAST, Trivy container scanning, JFrog Artifactory and automated infrastructure provisioning |
 | [**cptm8-k8s-stack**](https://github.com/deifzar/cptm8-k8s-stack) | Kubernetes, Helm, Kustomize | Cloud-native deployment orchestrating 13 microservices across AWS EKS, GCP GKE, and Azure AKS with observability and multi-environment support |
 
 ---
